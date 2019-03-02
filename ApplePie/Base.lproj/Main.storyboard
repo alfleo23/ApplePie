@@ -291,6 +291,9 @@
                         <outletCollection property="letterButtons" destination="p8S-nL-Y0W" collectionClass="NSMutableArray" id="cnc-85-F7R"/>
                         <outletCollection property="letterButtons" destination="W1B-7a-5tS" collectionClass="NSMutableArray" id="jOF-1a-C8M"/>
                         <outletCollection property="letterButtons" destination="FuX-LK-b03" collectionClass="NSMutableArray" id="llS-CU-hdd"/>
+                        <outletCollection property="letterButtons" destination="6Gi-X1-QSD" collectionClass="NSMutableArray" id="czE-Ux-i6C"/>
+                        <outletCollection property="letterButtons" destination="DbJ-JO-Y1v" collectionClass="NSMutableArray" id="G61-cb-8r0"/>
+                        <outletCollection property="letterButtons" destination="BCL-uT-oMI" collectionClass="NSMutableArray" id="sbk-zT-D6V"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
